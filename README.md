@@ -1,2 +1,3 @@
 # Test
-Test for start development
+- Test for start development
+- このリポジトリはチーム内のテスト用のリポジトリです、好きにブランチを切ったり、プルリクエストを送ったり、レビューの仕方を確認したり、など、githubの使い方を確認したい時に使っていいリポジトリです。
